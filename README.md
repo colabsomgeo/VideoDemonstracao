@@ -23,7 +23,6 @@ Você pode assistir diretamente no repositório ou clicar na imagem abaixo para 
 
 <br>
 
-[<img src="https://i.imgur.com/8a1z5nJ.png" alt="Capa do Vídeo de Demonstração do ColabSomGeo" width="600"/>](Vídeo%20Demonstração%20da%20Ferramenta.mp4)
 
 **[➡️ Acessar o arquivo de vídeo diretamente](./Vídeo%20Demonstração%20da%20Ferramenta.mp4)**
 
