@@ -19,10 +19,9 @@ Principais funcionalidades destacadas no vídeo:
 
 Assista ao vídeo para ver a ferramenta em ação. A demonstração cobre os principais fluxos de trabalho e funcionalidades da plataforma.
 
-Você pode assistir diretamente no repositório ou clicar na imagem abaixo para visualizar.
+Você pode assistir diretamente no repositório para visualizar.
 
 <br>
-
 
 **[➡️ Acessar o arquivo de vídeo diretamente](./Vídeo%20Demonstração%20da%20Ferramenta.mp4)**
 
